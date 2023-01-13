@@ -1,6 +1,6 @@
 # repo2
 
-commit - new branches - merge
+test git commands
 
 ## Local Development
 1. Open SimpleCodingExercise.java
