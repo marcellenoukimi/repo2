@@ -1,6 +1,6 @@
 # repo2
 
-commit - new branches - merge
+commit - create/delete branches - merge
 
 ## Local Development
 1. Open SimpleCodingExercise.java
